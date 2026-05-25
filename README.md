@@ -15,12 +15,14 @@ Um sistema de inventário para RPG desenvolvido em Java com operações CRUD via
 - Terminal/CLI
 
 ## 📁 Estrutura do Projeto
+```
 RPGInventory/
 ├── src/
-│ ├── main/
-│ │ └── Main.java
-│ ├── models/
-│ │ └── Item.java
-│ └── services/
-│ └── InventoryService.java
+│   ├── main/
+│   │   └── Main.java
+│   ├── models/
+│   │   └── Item.java
+│   └── services/
+│       └── InventoryService.java
 └── README.md
+```
