@@ -26,3 +26,6 @@ RPGInventory/
 │       └── InventoryService.java
 └── README.md
 ```
+
+## Contribuição:
+MiguelHecht (mhlg07@gmail.com)
